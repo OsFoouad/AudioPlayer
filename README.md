@@ -1,16 +1,6 @@
-# o_music
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aud!o player --  
+is a start point to a professional audio player and here we could deal with storage permission using permission handler package
+and deal withaudio files with on audio query and just audio 
+the first to get our local tracks and the second to play, pause, play next and play pervious track ,
+in our app we only need storage permission , 
+and here we followed the getX statme management and used Obx we handle our project states . 
